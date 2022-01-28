@@ -1,0 +1,162 @@
+#container {
+    font-family: serif;
+}
+.allcontainer {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar {
+    background-color: lightgray;
+    height: 100px;
+    width: 100%;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+}
+h1 {
+    color: black;
+    font-size: 60px;
+    margin-left: 20px;
+}
+.navbar input {
+    font-size: 35px;
+    color: lightgray;
+    border: black solid 4px;
+    width: 600px;
+    height: 45px;
+}
+.navbar button {
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+    border: black solid 5px;
+    box-shadow: black 4px 6px;
+    height: 50px;
+    width: 100px;
+    margin-right: 20px;
+}
+.aside {
+    margin: 5em;
+}
+.topsection {
+    width: 50em;
+    height: 20em;
+    border: black solid 5px;
+    display: flex;
+    margin: 5em;
+}
+.wordinfo1 {
+    margin-left: 20px;
+}
+h2 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 70px;
+    text-align: center;
+}
+h3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+}
+span {
+    font-style: italic;
+}
+.wordinfo1 p {
+    margin-top: 0px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.wordinfo1 button {
+    width: 6em;
+    height: 2em;
+    font-size: 40px;
+    background-color: yellow;
+    border: black solid 5px;
+    box-shadow: 4px 6px;
+    text-align: center;
+}
+.definition1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+}
+.definition1 p {
+    font-size: 30px;
+    font-weight: 700;
+}
+/* 1st box done */
+.lowsection {
+    width: 50em;
+    height: 20em;
+    border: black solid 5px;
+    display: flex;
+    margin: 5em;
+}
+.wordinfo2 {
+    margin-left: 20px;
+}
+h4 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 70px;
+    text-align: center;
+}
+h5 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+}
+.wordinfo2 p {
+    margin-top: 0px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.wordinfo2 button {
+    width: 6em;
+    height: 2em;
+    font-size: 40px;
+    background-color: yellow;
+    border: black solid 5px;
+    box-shadow: 4px 6px;
+    text-align: center;
+}
+.definition2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+}
+.definition2 p {
+    font-size: 30px;
+    font-weight: 700;
+}
+.aside {
+    width: 25em;
+    height: 17em;
+    border: black solid 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content p {
+    margin-top: 0px;
+    font-size: 40px;
+}
+.content button {
+    background-color: darkgreen;
+    border: balck solid 5px;
+    box-shadow: 4px 6px;
+    font-size: 40px;
+    height: 1.7em;
+    width: 8em;
+}
